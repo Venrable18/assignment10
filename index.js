@@ -20,5 +20,6 @@ function save() {
 
   countEl.innerHTML = 0
 
-clicks = 0
+  clicks = 0
+  
 }
